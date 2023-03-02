@@ -1,5 +1,7 @@
 # sql-challenge
 
+ERD, Queries, and SQL tables found in EmployeeSQL file
+
 Design tables to hold the data CSV files, import the CSV files into a SQL database, and then answer questions about the data. Perform data modeling, data engineering, and data analysis, respectively.
 
 Data Modeling
